@@ -1,4 +1,4 @@
-# goit-js-hw-10
+# goit-js-hw-1
 
 
-Домашнее задание #10 GoIT | JavaScript 2.0
+Домашнее задание #11 GoIT | JavaScript 2.0
